@@ -1,6 +1,6 @@
 ## Coffee Shop
 
-his is a beautiful web template created in react.js
+This is a beautiful web template created in react.js
 
 ### Technologies
 1. React.js
